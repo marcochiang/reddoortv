@@ -59,6 +59,13 @@ navbar-links:
 navbar-col: "#C4E8D1"
 footer-col: "#C4E8D1"
 
+# 3rd Party Integrations
+# ----------------------------------------------------------------------------------------
+
+# Set your Google Analytics id to receive `pageview` events.
+# To remove Google Anaylics from your page, remove the line below.
+google_analytics: G-WPS961DLMM
+
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
